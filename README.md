@@ -3,5 +3,10 @@ Degree Tracker is a credit progress tracker with the goal to simplify uWaterloo 
 
 
 **Screenshots**
+
 ![main page](https://raw.githubusercontent.com/PotentialOnWings/uW-Portal-Degree-Tracker/master/main.png)
+
+
+
+
 ![search](https://raw.githubusercontent.com/PotentialOnWings/uW-Portal-Degree-Tracker/master/search.png)
